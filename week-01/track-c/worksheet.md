@@ -8,7 +8,7 @@
 
 | Day | Date | Topics completed | Time spent (min) | Evidence (link or snippet) | Confidence (1-5) |
 |---|---|---|---|---|---|
-| Sunday | Sun 4 Oct | Setup, stack check, project layout, orientation | 2 |  | 5 |
+| Sunday | Sun 4 Oct | Setup, stack check, project layout, orientation | 120 | https://github.com/arslaanahmad2005-dotcom/AI-and-ML-Tasks/blob/main/notebooks/Day-01%20notes.md | 5 |
 | Monday | Mon 5 Oct | ML types, workflow stages |  |  |  |
 | Tuesday | Tue 6 Oct | Data quality, leakage, cleaning |  |  |  |
 | Wednesday | Wed 7 Oct | Train/test split, stratification |  |  |  |
