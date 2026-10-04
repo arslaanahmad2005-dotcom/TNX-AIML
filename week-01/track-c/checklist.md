@@ -14,17 +14,17 @@ scikit-learn model.
 
 ## Sunday 4 Oct 2026 — Setup + orientation
 
-- [ ] **Verify your stack** — confirm python, numpy, pandas, and matplotlib import and print versions. Why it matters: the ML ecosystem is version-sensitive, and you want to catch problems now.
+- [x] **Verify your stack** — confirm python, numpy, pandas, and matplotlib import and print versions. Why it matters: the ML ecosystem is version-sensitive, and you want to catch problems now.
   - https://numpy.org/doc/stable/user/quickstart.html
   - https://pandas.pydata.org/docs/getting_started/index.html
   - https://matplotlib.org/stable/tutorials/pyplot.html
-- [ ] **Set up a project folder with a clean structure** — `data/`, `src/`, `notebooks/`, `results/`, and a `requirements.txt`. Why it matters: reproducible ML starts with a reproducible folder.
+- [x] **Set up a project folder with a clean structure** — `data/`, `src/`, `notebooks/`, `results/`, and a `requirements.txt`. Why it matters: reproducible ML starts with a reproducible folder.
   - https://pip.pypa.io/en/stable/
-- [ ] **Write your first scikit-learn environment** — `pip install scikit-learn`, then confirm the import and version. Why it matters: the model fitting you will do all week depends on a sane install.
+- [x] **Write your first scikit-learn environment** — `pip install scikit-learn`, then confirm the import and version. Why it matters: the model fitting you will do all week depends on a sane install.
   - https://scikit-learn.org/stable/getting_started.html
-- [ ] **Orientation: what machine learning is** — read an overview of the field, then write one paragraph defining supervised, unsupervised, and reinforcement learning in your own words. Why it matters: you cannot pick the right tool for a job until you know what the jobs are.
+- [x] **Orientation: what machine learning is** — read an overview of the field, then write one paragraph defining supervised, unsupervised, and reinforcement learning in your own words. Why it matters: you cannot pick the right tool for a job until you know what the jobs are.
   - https://developers.google.com/machine-learning/crash-course
-- [ ] **Orientation: the ML workflow** — list the stages from data to deployment that this week will touch. Why it matters: it gives you a map before you start hiking.
+- [x] **Orientation: the ML workflow** — list the stages from data to deployment that this week will touch. Why it matters: it gives you a map before you start hiking.
   - **Deliverable:** a one-page note with the workflow stages and your field definitions.
 
 ## Monday 5 Oct 2026 — ML types and the workflow
