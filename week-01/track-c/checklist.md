@@ -29,14 +29,14 @@ scikit-learn model.
 
 ## Monday 5 Oct 2026 — ML types and the workflow
 
-- [ ] **Supervised learning** — labeled data, prediction, and the two flavors: regression and classification. Why it matters: this week is almost entirely supervised.
+- [x] **Supervised learning** — labeled data, prediction, and the two flavors: regression and classification. Why it matters: this week is almost entirely supervised.
   - https://developers.google.com/machine-learning/crash-course
   - https://scikit-learn.org/stable/modules/classification.html
-- [ ] **Unsupervised learning** — clustering and dimensionality reduction, and how it differs. Why it matters: not every problem has labels, and you will meet these methods soon.
+- [x] **Unsupervised learning** — clustering and dimensionality reduction, and how it differs. Why it matters: not every problem has labels, and you will meet these methods soon.
   - https://developers.google.com/machine-learning/crash-course
-- [ ] **The machine learning workflow** — define the problem, get data, explore, clean, split, train, evaluate, tune, deploy, monitor. Why it matters: it is the same shape every week, and the discipline of it is what separates modeling from guesswork.
+- [x] **The machine learning workflow** — define the problem, get data, explore, clean, split, train, evaluate, tune, deploy, monitor. Why it matters: it is the same shape every week, and the discipline of it is what separates modeling from guesswork.
   - https://developers.google.com/machine-learning/crash-course
-- [ ] **Walk through the workflow on a dataset** — choose a small dataset, trace each stage on paper, and mark which you will do in detail next week. Why it matters: puts the terminology into practice immediately.
+- [x] **Walk through the workflow on a dataset** — choose a small dataset, trace each stage on paper, and mark which you will do in detail next week. Why it matters: puts the terminology into practice immediately.
   - **Deliverable:** a printed workflow diagram with your dataset chosen.
 
 ## Tuesday 6 Oct 2026 — Data quality and leakage
