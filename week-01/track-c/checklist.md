@@ -41,13 +41,13 @@ scikit-learn model.
 
 ## Tuesday 6 Oct 2026 — Data quality and leakage
 
-- [ ] **Data quality dimensions** — completeness, consistency, accuracy, and timeliness. Why it matters: garbage in is the single biggest reason models fail in production.
+- [x] **Data quality dimensions** — completeness, consistency, accuracy, and timeliness. Why it matters: garbage in is the single biggest reason models fail in production.
   - https://scikit-learn.org/stable/common_pitfalls.html
-- [ ] **Data leakage** — information that would not be available at prediction time, and why it inflates performance. Why it matters: leakage makes a model look brilliant in the lab and useless in the real world.
+- [x] **Data leakage** — information that would not be available at prediction time, and why it inflates performance. Why it matters: leakage makes a model look brilliant in the lab and useless in the real world.
   - https://scikit-learn.org/stable/common_pitfalls.html
-- [ ] **Detection and prevention** — train on a split version and a full version, and compare to show the gap. Why it matters: you will spot the telltale symptom during evaluation.
+- [x] **Detection and prevention** — train on a split version and a full version, and compare to show the gap. Why it matters: you will spot the telltale symptom during evaluation.
   - https://scikit-learn.org/stable/common_pitfalls.html
-- [ ] **Clean a small dataset** — handle missing values, drop duplicated rows, and fix a type problem, then verify the shape before splitting. Why it matters: this is the exact first step you will run on every real project.
+- [x] **Clean a small dataset** — handle missing values, drop duplicated rows, and fix a type problem, then verify the shape before splitting. Why it matters: this is the exact first step you will run on every real project.
   - **Deliverable:** a cleaned dataset plus a short markdown summary of what you fixed and why.
 
 ## Wednesday 7 Oct 2026 — Train/test split
