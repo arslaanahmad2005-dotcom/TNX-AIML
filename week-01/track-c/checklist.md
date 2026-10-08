@@ -52,14 +52,14 @@ scikit-learn model.
 
 ## Wednesday 7 Oct 2026 — Train/test split
 
-- [ ] **The purpose of a hold-out set** — why you evaluate on data the model never saw. Why it matters: this is the single most important idea in measuring real performance.
+- [x] **The purpose of a hold-out set** — why you evaluate on data the model never saw. Why it matters: this is the single most important idea in measuring real performance.
   - https://scikit-learn.org/stable/modules/cross_validation.html
-- [ ] **Train/test split** — `train_test_split`, `test_size`, and `random_state`. Why it matters: reproducibility; you will call this today, and again in different shapes for the rest of the course.
+- [x] **Train/test split** — `train_test_split`, `test_size`, and `random_state`. Why it matters: reproducibility; you will call this today, and again in different shapes for the rest of the course.
   - https://scikit-learn.org/stable/modules/cross_validation.html
   - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
-- [ ] **Stratified splits** — using `stratify` for classification so both halves keep the class balance. Why it matters: keeps your evaluation honest when classes are imbalanced.
+- [x] **Stratified splits** — using `stratify` for classification so both halves keep the class balance. Why it matters: keeps your evaluation honest when classes are imbalanced.
   - https://scikit-learn.org/stable/modules/cross_validation.html
-- [ ] **Compare split sizes** — train on 60/20/20 and on 80/20, and note how the estimates move. Why it matters: shows the tradeoff between data for learning and data for judging.
+- [x] **Compare split sizes** — train on 60/20/20 and on 80/20, and note how the estimates move. Why it matters: shows the tradeoff between data for learning and data for judging.
   - **Deliverable:** a short comparison table and a one-line conclusion.
 
 ## Thursday 8 Oct 2026 — Regression
