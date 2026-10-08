@@ -11,7 +11,7 @@
 | Sunday | Sun 4 Oct | Setup, stack check, project layout, orientation | 120 | https://github.com/arslaanahmad2005-dotcom/AI-and-ML-Tasks/blob/main/notebooks/Day-01%20notes.md | 5 |
 | Monday | Mon 5 Oct | ML types, workflow stages | 120 | https://github.com/arslaanahmad2005-dotcom/AI-and-ML-Tasks/blob/main/notebooks/handwritten%20paper.jpg | 5 |
 | Tuesday | Tue 6 Oct | Data quality, leakage, cleaning | 90 | https://github.com/arslaanahmad2005-dotcom/AI-and-ML-Tasks.git | 5 |
-| Wednesday | Wed 7 Oct | Train/test split, stratification |  |  |  |
+| Wednesday | Wed 7 Oct | Train/test split, stratification | 90 | https://github.com/arslaanahmad2005-dotcom/AI-and-ML-Tasks.git | 5 |
 | Thursday | Thu 8 Oct | Regression, linear and polynomial |  |  |  |
 | Friday | Fri 9 Oct | Classification, logistic regression, trees |  |  |  |
 | Saturday | Sat 10 Oct | Metrics, MAE/MSE, precision/recall, bias-variance |  |  |  |
