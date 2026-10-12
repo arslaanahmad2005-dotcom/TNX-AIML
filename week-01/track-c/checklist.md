@@ -28,11 +28,11 @@ starting with [Part 1 — Foundation](https://youtu.be/1L420xXpDTg).
 **Dataset & capstone:** the video description links [AkarshVyas/Numpy-Youtube](https://github.com/AkarshVyas/Numpy-Youtube),
 which contains `Arrays.ipynb`, `array_indexing.ipynb`, `array_operations.ipynb`, and the **`exersises.ipynb` worksheet**.
 
-- [ ] **Notebooks (setup)** — `0:28` · get Jupyter/Colab running. Why it matters: every day this week runs in a notebook.
-- [ ] **NumPy arrays** — `19:28` · creating arrays, `shape`, `dtype`, `arange`/`linspace`. Why it matters: the whole data stack rests on arrays.
-- [ ] **Indexing & slicing** — `46:57` · selecting rows, columns, and blocks of an array. Why it matters: reading data starts with selecting it.
-- [ ] **Array operations & broadcasting** — `1:04:12` · element-wise maths and how numpy aligns shapes. Why it matters: the core pattern behind nearly every numeric operation.
-- [ ] **Complete the `exersises.ipynb` worksheet** — `1:30:01` · the exercise set at the end of the video. Why it matters: it is the day's hands-on test.
+- [x] **Notebooks (setup)** — `0:28` · get Jupyter/Colab running. Why it matters: every day this week runs in a notebook.
+- [x] **NumPy arrays** — `19:28` · creating arrays, `shape`, `dtype`, `arange`/`linspace`. Why it matters: the whole data stack rests on arrays.
+- [x] **Indexing & slicing** — `46:57` · selecting rows, columns, and blocks of an array. Why it matters: reading data starts with selecting it.
+- [x] **Array operations & broadcasting** — `1:04:12` · element-wise maths and how numpy aligns shapes. Why it matters: the core pattern behind nearly every numeric operation.
+- [x] **Complete the `exersises.ipynb` worksheet** — `1:30:01` · the exercise set at the end of the video. Why it matters: it is the day's hands-on test.
 - **Deliverable:** your completed `exersises.ipynb` plus the Day 1 answers in [`worksheet/day-1.md`](worksheet/day-1.md).
 
 ## Day 2 — Tuesday 13 Oct 2026 — pandas
