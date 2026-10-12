@@ -1,6 +1,6 @@
 # Track C — Day 1 Worksheet — numpy
 
-**Name:** ______________________________  **GitHub handle:** ______________________________
+**Name:** Arslan Ahmad **GitHub handle:** 
 **Track:** Track C (ML Fundamentals)  **Day:** 1  **Date:** Monday 12 Oct 2026
 
 **Video:** [numpy — Complete Data Science Course](https://youtu.be/Utgwk0r9Zq4) ·
