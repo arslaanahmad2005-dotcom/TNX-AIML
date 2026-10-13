@@ -41,11 +41,11 @@ which contains `Arrays.ipynb`, `array_indexing.ipynb`, `array_operations.ipynb`,
 **Dataset & capstone:** the description links [AkarshVyas/Pandas-Youtube](https://github.com/AkarshVyas/Pandas-Youtube)
 (see `2)DataFrames.ipynb`, `3)MissingData.ipynb`, `5)GroupByAggregation.ipynb`), and the video ends with a **Data Capstone Project**.
 
-- [ ] **Series & DataFrames** — `3:32` and `11:27` · the two pandas containers and loading a CSV. Why it matters: pandas is the standard way to work with tables.
-- [ ] **Missing data** — `35:20` · detecting, dropping, and filling missing values. Why it matters: real datasets are incomplete.
-- [ ] **Merging, joining & concatenation** — `45:33` and **group-by / pivot tables** — `57:46` and `1:08:02`. Why it matters: combining and summarising tables is most of data work.
-- [ ] **Feature extraction project** — `1:27:58` · build the project from the video.
-- [ ] **Data capstone project** — `1:56:19` · the end-of-video worksheet. Why it matters: it is the day's hands-on test.
+- [x] **Series & DataFrames** — `3:32` and `11:27` · the two pandas containers and loading a CSV. Why it matters: pandas is the standard way to work with tables.
+- [x] **Missing data** — `35:20` · detecting, dropping, and filling missing values. Why it matters: real datasets are incomplete.
+- [x] **Merging, joining & concatenation** — `45:33` and **group-by / pivot tables** — `57:46` and `1:08:02`. Why it matters: combining and summarising tables is most of data work.
+- [x] **Feature extraction project** — `1:27:58` · build the project from the video.
+- [x] **Data capstone project** — `1:56:19` · the end-of-video worksheet. Why it matters: it is the day's hands-on test.
 - **Deliverable:** your completed capstone notebook plus the Day 2 answers in [`worksheet/day-2.md`](worksheet/day-2.md).
 
 ## Day 3 — Wednesday 14 Oct 2026 — matplotlib & seaborn
